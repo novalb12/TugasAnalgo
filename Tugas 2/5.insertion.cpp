@@ -1,9 +1,3 @@
-/*
-Nama	: Muhammad Naufal Bimantara
-Kelas	: B
-NPM 	: 140810170058
-Nama Program : Selection Sort
-*/
 #include <iostream>
 #include<conio.h>
 

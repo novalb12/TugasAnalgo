@@ -1,10 +1,3 @@
-/*
-Nama	: Muhammad Naufal Bimantara
-Kelas	: B
-NPM 	: 140810170058
-Nama Program : Sequential Search
-*/
-
 #include <iostream>
 using namespace std;
 

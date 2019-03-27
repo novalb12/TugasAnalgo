@@ -1,10 +1,3 @@
-/*
-Nama	: Muhammad Naufal Bimantara
-Kelas	: B
-NPM 	: 140810170058
-Nama Program : Insertion Sort
-*/
-
 #include <iostream>
 #include <conio.h>
 
